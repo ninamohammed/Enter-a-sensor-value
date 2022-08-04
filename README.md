@@ -35,7 +35,8 @@
 
 * Store values in the database :
 
-![Picture3](https://user-images.githubusercontent.com/103388162/182738914-d86d1404-f8c4-445e-ae01-b04dfc6743e9.png)
+![Screenshot 2022-08-04 041944](https://user-images.githubusercontent.com/103388162/182742126-b2846420-0ecd-4c07-babc-328509ce9b03.jpg)
+
 
 --------------------------------------------------------------
 

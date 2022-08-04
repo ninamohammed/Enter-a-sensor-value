@@ -1,6 +1,6 @@
  ### Project Description :
  
-Create a web page that takes a numerical value of the sensor from the user and sends it to the database, the type of sending is the get method 
+ - Create a web page that takes a numerical value of the sensor from the user and sends it to the database, the type of sending is the get method 
 ------------------------------------------
 ### Tools to build the project :
 
@@ -24,7 +24,10 @@ Create a web page that takes a numerical value of the sensor from the user and s
 
 * Before submitting the value, look carefully at the URL :
 
-![Picture1](https://user-images.githubusercontent.com/103388162/182736915-e4938c49-ed24-4af1-bf3d-ca773c1eb8dc.jpg)
+1. ![Picture5](https://user-images.githubusercontent.com/103388162/182740371-ccf0c28d-ad75-4fe2-bda5-c5a9b225ed28.png)
+
+
+2. ![Picture1](https://user-images.githubusercontent.com/103388162/182736915-e4938c49-ed24-4af1-bf3d-ca773c1eb8dc.jpg)
 
 * Affter user clicks on the "Submit button", the URL will be something like this:
    * The variable names and values will be visible in URL.

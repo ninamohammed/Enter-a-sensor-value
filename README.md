@@ -24,7 +24,7 @@
 
 * Before submitting the value, look carefully at the URL :
 
- ![Picture7](https://user-images.githubusercontent.com/103388162/182740994-76e06919-b963-4228-b547-12077a945a75.png)
+![Screenshot 2022-08-04 041222](https://user-images.githubusercontent.com/103388162/182741441-37704987-7ba3-4c48-b9bc-3dc13d48f3a5.jpg)
 
  ![Picture1](https://user-images.githubusercontent.com/103388162/182736915-e4938c49-ed24-4af1-bf3d-ca773c1eb8dc.jpg)
 

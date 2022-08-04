@@ -24,10 +24,9 @@
 
 * Before submitting the value, look carefully at the URL :
 
-1. ![Picture5](https://user-images.githubusercontent.com/103388162/182740371-ccf0c28d-ad75-4fe2-bda5-c5a9b225ed28.png)
+ ![Picture6](https://user-images.githubusercontent.com/103388162/182740753-42a165e9-065c-421b-a15b-50cf78882d7f.png)
 
-
-2. ![Picture1](https://user-images.githubusercontent.com/103388162/182736915-e4938c49-ed24-4af1-bf3d-ca773c1eb8dc.jpg)
+ ![Picture1](https://user-images.githubusercontent.com/103388162/182736915-e4938c49-ed24-4af1-bf3d-ca773c1eb8dc.jpg)
 
 * Affter user clicks on the "Submit button", the URL will be something like this:
    * The variable names and values will be visible in URL.
